@@ -7,3 +7,6 @@ This readme needs fewer spelling mistakes.
 What a good readme - no typos.
 
 EOF
+
+A simple change to the hello-world document.
+
